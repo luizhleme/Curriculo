@@ -94,6 +94,16 @@ Atuar com Análise e Desenvolvimento de Software e liderança técnica.
         <li>Maven: gerenciando dependências (12h)</li>
         <li>OO avançada e SOLID (8h)</li>
       </ul>
+      Trilha Java para Web
+      <ul>
+        <li>VRaptor 3: web rápida e fácil com java (12h)</li>
+        <li>JSF:simplicidade e produtividade na Web (20h)</li>
+      </ul>
+      Trilha Java
+      <ul>
+        <li>Design Patterns para bons programadores (20h)</li>
+        <li>Eclipse: produtividade extrema (12h)</li>
+      </ul>
       Alura
     </td>
   </tr>  
