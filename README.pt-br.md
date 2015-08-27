@@ -43,17 +43,14 @@ Atuar com Análise e Desenvolvimento de Software e liderança técnica.
   <tr>
     <td>2015</td>
     <td>
-       Web com ASP.Net MVC e Persistência com NHibernate (40h)</br>
+      Formação .Net
+       <ul>
+        <li>C# e Orientação a Objetos (40h)</li>
+        <li>Web com ASP.Net MVC e Persistência com NHibernate (40h)</li>        
+      </ul>
       Caelum - Ensino e Inovação
     </td>
   </tr>
-  <tr>
-  <td>2015</td>
-    <td>
-      C# e Orientação a Objetos (40h) </br>
-      Caelum - Ensino e Inovação
-    </td>
-  </tr> 
   <tr>
   <td>2014</td>
     <td>
