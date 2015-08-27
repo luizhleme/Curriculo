@@ -110,3 +110,96 @@ Atuar com Análise e Desenvolvimento de Software e liderança técnica.
     </td>
   </tr>  
 </table>
+##Atuação Profissional
+<table>
+  <tr>
+    <td>Período</td>
+    <td>2013 - Atual</td>
+  </tr>
+  <tr>
+    <td>Empresa</td>
+    <td>BRQ</td>
+  </tr>  
+  <tr>
+    <td>Cargo</td>
+    <td>Analista Desenvolvedor</td>
+  </tr>  
+  <tr>
+    <td>Atividades</td>
+    <td>Desenvolvimento de features e correção de incidentes dos sistemas (CliqCCEE, SIGACCEE) desenvolvidos em Java na Câmara de Comercialização de Energia Elétrica.</br>
+Responsável pela Gestão de Configuração de Software código e documentação do sistema CliqCCEE na equipe de Sustentação.
+    </td>
+  </tr>  
+</table>
+<table>
+  <tr>
+    <td>Período</td>
+    <td>2011 - 2013</td>
+  </tr>
+  <tr>
+    <td>Empresa</td>
+    <td>InfoSERVER</td>
+  </tr>  
+  <tr>
+    <td>Cargo</td>
+    <td>Analista Desenvolvedor</td>
+  </tr>  
+  <tr>
+    <td>Atividades</td>
+    <td>
+    Atuando diretamente na análise, conversão e desenvolvimentodas transações contábeis (Pagamento de Boleto de Cobrança, Depósitos e Saques) do Sistema de Caixa de Agências para o Terminal Financeiro (Sistema Desktop em Java) do Banco Bradesco.</br>
+Responsável pela preparação do ambiente de desenvolvimento FDDB e Terminal Financeiro para a equipe da InfoSERVER.</br>
+Desenvolvimento e manutenção do TineTypes (DomainTypes e ViewWrapper) do Terminal Financeiro.
+    </td>
+  </tr>  
+</table>
+<table>
+  <tr>
+    <td>Período</td>
+    <td>2010 - 2011</td>
+  </tr>
+  <tr>
+    <td>Empresa</td>
+    <td>Stefanini</td>
+  </tr>  
+  <tr>
+    <td>Cargo</td>
+    <td>Analista de Sistemas</td>
+  </tr>  
+  <tr>
+    <td>Atividades</td>
+    <td>
+    Líder técnico da equipe Java Web do projeto UORG do Banco Bradesco. Atuando diretamente com o time interno de COBOL bem como com as empresas terceiras de COBOL, para validação dos programas. Atuando com o desenvolvimento e redesenho da aplicação usando a Arquitetura Web Bradesco (AWB).
+    </td>
+  </tr>  
+</table>
+<table>
+  <tr>
+    <td>Período</td>
+    <td>2005 - 2010</td>
+  </tr>
+  <tr>
+    <td>Empresa</td>
+    <td>InfoSERVER</td>
+  </tr>  
+  <tr>
+    <td>Cargo</td>
+    <td>Desenvolvedor</td>
+  </tr>  
+  <tr>
+    <td>Atividades</td>
+    <td>Atuando com desenvolvimento Web Java usando a Arquitetura Web Bradesco – AWB e Desktop Java com o FDDB para o Terminal Financeiro.</br>
+Líder técnico da equipe de automatização de testes de aceitação utilizando ferramenta IBM Rational Robot.
+Atuando com desenvolvimento desktop com Visual Basic 6.0 e VBA.</br>
+Principais realizações:Conversão das transações não contábeis do Sistema de Caixa de Agências para o TerminalFinanceiro para o Branco Bradesco S.A. </br>
+Desenvolvimento do Sistema Corporate DOC/TED e Workflow Contratos para o BancoBradesco S.A. </br>
+Elaboração do material de treinamento sobre as ferramentas IBM Rational Robot eTestManager para o Banco Bradesco S.A.</br>
+Desenvolvimento da infraestrutura para automatização dos testes de aceitação do Sistemade Caixa do Banco Bradesco S.A. usando a ferramenta IBM Rational Robot.</br>
+Pré-venda de projeto de automatização de testes de aceitação usando IBM Rational Robot para o Banco Santander</br>
+Automatização dos testes de desempenho do sistema CidadeTran do Banco Bradesco S.A.</br>
+Desenvolvimento do sistema Visas SMS para Banco Bradesco S.A. </br>
+Desenvolvimento do sistema de Bloqueio de Cartões para o Banco Bradesco S.A.</br>
+Desenvolvimento do sistema APESM para o MIS Prime do Banco Bradesco S.A.
+</td>
+  </tr>  
+</table>
