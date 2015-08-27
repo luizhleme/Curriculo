@@ -43,7 +43,7 @@ Atuar com Análise e Desenvolvimento de Software e liderança técnica.
   <tr>
     <td>2015</td>
     <td>
-       Web com ASP.Net MVC e PersistÊncia com NHibernate (40h)</br>
+       Web com ASP.Net MVC e Persistência com NHibernate (40h)</br>
       Caelum - Ensino e Inovação
     </td>
   </tr>
