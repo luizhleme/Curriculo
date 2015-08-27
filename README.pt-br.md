@@ -68,7 +68,7 @@ Atuar com Análise e Desenvolvimento de Software e liderança técnica.
   <tr>
   <td>2013 - 2015</td>
     <td>
-      Cursos On-line
+      Cursos On-line Alura
       </br>Trilha de Testes
       <ul>
         <li>Testes de Unidade e TDD (12h)</li>
@@ -104,7 +104,6 @@ Atuar com Análise e Desenvolvimento de Software e liderança técnica.
         <li>Design Patterns para bons programadores (20h)</li>
         <li>Eclipse: produtividade extrema (12h)</li>
       </ul>
-      Alura
     </td>
   </tr>  
   <tr>
