@@ -75,35 +75,23 @@ Atuar com Análise e Desenvolvimento de Software e liderança técnica.
   <tr>
   <td>2012</td>
     <td>
-      Laboratório Web com JSF e CDI (40h) </br>
+      Formação Java Avançado
+      <ul>
+        <li>Persistência com JPA e Hibernate (32h) </li>
+        <li>Laboratório Web com JSF e CDI (40h) </li>
+      </ul>
       Caelum - Ensino e Inovação
     </td>
   </tr>
   <tr>
   <td>2012</td>
     <td>
-      Persistência com JPA e Hibernate (32h) </br>
-      Caelum - Ensino e Inovação
-    </td>
-  </tr>
-  <tr>
-  <td>2012</td>
-    <td>
-     Laboratório Java com Testes, XML e Design Patterns (20h) </br>
-      Caelum - Ensino e Inovação
-    </td>
-  </tr>
-  <tr>
-  <td>2012</td>
-    <td>
-     Java para desenvolvimento web (40h) </br>
-      Caelum - Ensino e Inovação
-    </td>
-  </tr>
-  <tr>
-  <td>2012</td>
-    <td>
-     Java e Orientação a Objetos (40h) </br>
+     Formação Java Básico
+     <ul>
+      <li>Java e Orientação a Objetos (40h) </li>
+      <li>Java para desenvolvimento web (40h) </li>
+      <li>Laboratório Java com Testes, XML e Design Patterns (20h) </li>
+     </ul>
       Caelum - Ensino e Inovação
     </td>
   </tr>
