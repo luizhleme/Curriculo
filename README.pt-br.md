@@ -64,7 +64,39 @@ Atuar com Análise e Desenvolvimento de Software e liderança técnica.
       Arquitetura e design em projetos Java (40h) </br>
       Caelum - Ensino e Inovação
     </td>
-  </tr>    
+  </tr>
+  <tr>
+  <td>2013 - 2015</td>
+    <td>
+      Cursos On-line
+      </br>Trilha de Testes
+      <ul>
+        <li>Testes de Unidade e TDD (12h)</li>
+        <li>Testando comportamento através de mocks (12h)</li>
+        <li>Testando SQLs e DAOs (12h)</li>
+        <li>Testando sua Aplicação Web de Ponta A Ponta com Selenium (12h)</li>
+        <li>Testando WebServices com Rest Assured (12h)</li>
+        <li>Testes em Javascript com Jasmine (12h)</li>
+      </ul>
+      Trilha Infraestrutura
+      <ul>
+        <li>Git: Trabalhando em Equipe com Controle e Segurança (16h)</li>
+        <li>Jenkins: Automação de Deploy e Integração Contínua (12h)</li>
+      </ul>
+      Trilha Java Avançado
+      <ul>
+        <li>Aprimorando a Orientação a Objetos com Java (20h) </li>
+        <li>Design Patterns para Bons Programadores 2 (16h) </li>
+        <li>Relatórios em Java com JasperReposrts e iReport (20h)</li>
+        <li>XStream: Trabalhando com XML (12h)</li>
+        <li>ANT: Builds de software automatizados (12h)</li>
+        <li>Ivy: Gerenciamento das dependências flexível (12h)</li>
+        <li>Maven: gerenciando dependências (12h)</li>
+        <li>OO avançada e SOLID (8h)</li>
+      </ul>
+      Alura
+    </td>
+  </tr>  
   <tr>
   <td>2012</td>
     <td>
