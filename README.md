@@ -389,7 +389,7 @@ Desenvolvimento do sistema APESM para o MIS Prime do Banco Bradesco S.A.
       Terminal Financeiro - TF (Banco Bradesco)</br>
       Plataforma de Distribuição de Canais - PDC (Banco Bradesco) </br>
       Plataforma Open (Banco Bradesco)</br>
-      Application Builder for Banking  - AB2 (Oliveti)
+      Application Builder for Banking  - AB2 (Olivetti)
     </td>
   </tr>
   <tr>
