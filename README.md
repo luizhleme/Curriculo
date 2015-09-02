@@ -296,5 +296,22 @@ Desenvolvimento do sistema APESM para o MIS Prime do Banco Bradesco S.A.
     <td>
       ASP .Net MVC
     </td>
-  </tr>  
+  </tr>
+  <tr>
+    <td>Ferramentas de Build</td>
+    <td>
+      Maven</br>
+      Ant + Ivy</br>
+    </td>
+  </tr>
+  <tr>
+    <td>IDEs</td>
+    <td>
+      Eclipse</br>
+      Spring Tool Suite</br>
+      Rational Application Development</br>
+      NetBeans</br>
+      Visual Studio .Net
+    </td>
+  </tr>      
 </table>
