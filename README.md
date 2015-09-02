@@ -298,13 +298,6 @@ Desenvolvimento do sistema APESM para o MIS Prime do Banco Bradesco S.A.
     </td>
   </tr>
   <tr>
-    <td>Ferramentas de Build</td>
-    <td>
-      Maven</br>
-      Ant + Ivy</br>
-    </td>
-  </tr>
-  <tr>
     <td>IDEs</td>
     <td>
       Eclipse</br>
@@ -313,5 +306,64 @@ Desenvolvimento do sistema APESM para o MIS Prime do Banco Bradesco S.A.
       NetBeans</br>
       Visual Studio .Net
     </td>
-  </tr>      
+  </tr>
+   <tr>
+    <td>Ferramentas de Build</td>
+    <td>
+      Maven</br>
+      Ant + Ivy</br>
+    </td>
+  </tr>
+  <tr>
+    <td>Servidores de Aplicação</td>
+    <td>
+      Tomcat</br>
+      JBoss AS e WildFly</br>
+      Jetty</br>
+      IBM WebSphere</br>
+      IIS
+    </td>
+  </tr>   
+  <tr>
+    <td>ORM</td>
+    <td>
+      Hibernate</br>
+      EclipseLink</br>
+      NHibernate</br>
+    </td>
+  </tr>
+  <tr>
+    <td>Ferramentas de Controle de Versão de Código</td>
+    <td>
+      Source Safe</br>
+      SVN</br>
+      Git
+    </td>
+  </tr>
+  <tr>
+    <td>Ferramentas de Integração Contínua</td>
+    <td>
+      Hudson</br>
+      Jenkins</br>
+    </td>
+  </tr>
+  <tr>
+    <td>Banco de Dados SQL</td>
+    <td>
+      Oracle DB</br>
+      MySQL</br>
+      SQL Server</br>
+      IBM DB2
+    </td>
+  </tr>
+  <tr>
+    <td>Tipos de Testes</td>
+    <td>
+      Teste de Unidade</br>
+      Teste Mocado</br>
+      Teste de GUI</br>
+      Teste de Performance</br>
+      Teste de Integração
+    </td>
+  </tr>  
 </table>
