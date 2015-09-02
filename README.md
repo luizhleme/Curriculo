@@ -244,3 +244,57 @@ Desenvolvimento do sistema APESM para o MIS Prime do Banco Bradesco S.A.
 </td>
   </tr>  
 </table>
+###Conhecimentos
+<table>
+  <tr>
+    <td>Engenharia de Software</td>
+    <td>
+     Orientação a Objetos</br>
+     SOLID</br>
+     UML</br>
+     Rational Unified Process - RUP </br>
+     Engenharia de Requisitos de Software</br>
+     Semantics of Business Vocabulary and Rules - SBVR</br>
+    </td>
+  </tr>
+    <td>Agile</td>
+    <td>
+      Scrum</br>
+      XP</br>
+      TDD</br>
+      ATDD</br>
+      EATDD</br>
+      BDD</br>
+      Kanban</br>
+    </td>
+  </tr>
+  <tr>
+  <td>Linguagens de Programação</td>
+    <td>
+     Java</br>
+     Javascript e jQuery</br>
+     AngulaJs</br>
+     Cobol</br>
+     Visual Basic</br>
+     Visual Basic for Application</br>
+     C</br>
+     C#</br>
+    </td>
+  </tr>
+  <tr>
+    <td>Java MVC Frameworks</td>
+    <td>
+      Servlet</br>
+      JSF 1 e 2</br>
+      Struts 1 e 2</br>
+      Spring MVC</br>
+      Vraptor 3 e 4
+    </td>
+  </tr>
+  <tr>
+    <td>Outros Frameworks MVC</td>
+    <td>
+      ASP .Net MVC
+    </td>
+  </tr>  
+</table>
