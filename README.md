@@ -365,5 +365,45 @@ Desenvolvimento do sistema APESM para o MIS Prime do Banco Bradesco S.A.
       Teste de Performance</br>
       Teste de Integração
     </td>
-  </tr>  
+  </tr>
+  <tr>
+    <td>Ferramentas de Teste</td>
+    <td>
+      JUnit</br>
+      Mockito</br>
+      Selenium</br>
+      JMeter</br>
+      TestNG</br>
+      Cucumber</br>
+      Jasmine</br>
+      Rest Assured</br>
+      IBM Rational Robot e Test Manager</br>
+      IBM Rational Functional Tester</br>
+      IBM Rational Performance Tester
+    </td>
+  </tr>
+  <tr>
+    <td>Plataformas</td>
+    <td>
+      Arquitetura Web Bradesco - AWB(Banco Bradesco) </br>
+      Terminal Financeiro - TF (Banco Bradesco)</br>
+      Plataforma de Distribuição de Canais - PDC (Banco Bradesco) </br>
+      Plataforma Open (Banco Bradesco)</br>
+      Application Builder for Banking  - AB2 (Oliveti)
+    </td>
+  </tr>
+  <tr>
+    <td>Desenvolvimento Mobile</td>
+    <td>
+      Android
+    </td>
+  </tr>
+  <tr>
+    <td>Sistemas Operacionais </td>
+    <td>
+      Windows</br>
+      Windows Server</br>
+      Linux (Ubuntu)
+    </td>
+  </tr>
 </table>
