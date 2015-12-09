@@ -11,7 +11,7 @@ Atuar com Análise e Desenvolvimento de Software e liderança técnica.
 ###Formação Acadêmica
 <table>
   <tr>
-    <td>2012 - </td>
+    <td>2012 - 2015</td>
     <td>
       Mestrado Profissional em Engenharia da Computação </br>
       Instituto de Pesquisas Tecnológicas - IPT
