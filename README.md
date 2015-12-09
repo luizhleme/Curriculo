@@ -36,6 +36,13 @@ Atuar com Análise e Desenvolvimento de Software e liderança técnica.
   <tr>
     <td>2015</td>
     <td>
+     Práticas ágeis de desenvolvimento de Software em Java (20h)</br>
+      Caelum - Ensino e Inovação
+    </td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>
      SOA na prática: Padrões de integração com Web Services e Mensageria (40h)</br>
       Caelum - Ensino e Inovação
     </td>
