@@ -174,8 +174,8 @@ Atuar com Análise e Desenvolvimento de Software e liderança técnica.
   </tr>  
   <tr>
     <td>Atividades</td>
-    <td>Desenvolvimento de features e correção de incidentes dos sistemas (CliqCCEE, SIGACCEE) desenvolvidos em Java na Câmara de Comercialização de Energia Elétrica.</br>
-Responsável pela Gestão de Configuração de Software código e documentação do sistema CliqCCEE na equipe de Sustentação.
+    <td>Desenvolvimento de features e correção de incidentes dos sistemas (CliqCCEE, SCDE, NSGC) desenvolvidos em Java na Câmara de Comercialização de Energia Elétrica.</br>
+Responsável pela Gestão de Configuração de Software código e documentação do sistema CliqCCEE, SCDE, NSGC na equipe de Sustentação.
     </td>
   </tr>  
 </table>
