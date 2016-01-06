@@ -1,4 +1,4 @@
-# Luiz Henrique Leme
+BRQ# Luiz Henrique Leme
 ##Objetivo
 Atuar com Análise e Desenvolvimento de Software e liderança técnica.
 ###Resumo
@@ -162,7 +162,27 @@ Atuar com Análise e Desenvolvimento de Software e liderança técnica.
 <table>
   <tr>
     <td>Período</td>
-    <td>2013 - Atual</td>
+    <td>2016 - Atual</td>
+  </tr>
+  <tr>
+    <td>Empresa</td>
+    <td>Câmara de Comercialização de Energia Elétrica</td>
+  </tr>  
+  <tr>
+    <td>Cargo</td>
+    <td>Desenvolvedor Sênior</td>
+  </tr>  
+  <tr>
+    <td>Atividades</td>
+    <td>Desenvolvimento de features e correção de incidentes dos sistemas (CliqCCEE, SIGACCEE) desenvolvidos em Java na Câmara de Comercialização de Energia Elétrica.</br>
+Responsável pela Gestão de Configuração de Software código e documentação do sistema CliqCCEE na equipe de Sustentação.
+    </td>
+  </tr>  
+</table>
+<table>
+  <tr>
+    <td>Período</td>
+    <td>2013 - 2015</td>
   </tr>
   <tr>
     <td>Empresa</td>
