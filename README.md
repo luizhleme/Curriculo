@@ -1,4 +1,4 @@
-BRQ# Luiz Henrique Leme
+# Luiz Henrique Leme
 ##Objetivo
 Atuar com Análise e Desenvolvimento de Software e liderança técnica.
 ###Resumo
